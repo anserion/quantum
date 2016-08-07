@@ -1,0 +1,3 @@
+# quantum
+
+Quantum calculations library
